@@ -1,1 +1,2 @@
-# Awesome Project
+# Awesome Project!
+Sample devops project.
